@@ -25,8 +25,9 @@ SECRET_KEY = 'd-lpgps+rxzpqmcnrfub)78gx*)1gl5h1-i2q5bvg1=z5ucby&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = [
+    'parthw.pythonanywhere.com'
+]
 
 # Application definition
 
